@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# No dataset files needed - data pulls directly from FRED API
+# and Yahoo Finance API
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
